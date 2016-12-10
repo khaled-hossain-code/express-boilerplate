@@ -4,6 +4,8 @@
     "mocha": "registry:dt/mocha#2.2.5+20161028141524"
   },
   "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404",
+    "jquery": "registry:dt/jquery#1.10.0+20160929162922",
     "lodash": "registry:dt/lodash#4.14.0+20161110215204"
   }
 }
